@@ -1,0 +1,21 @@
+#topmenu{
+	width: 100%;
+	height: 500px;
+	background: #a317be;
+}
+button{
+	border: none;
+	background: #cf6c13;
+}
+.line{
+	width: 100px;
+	height: 4px;
+	background: rgba(0, 0, 0, 0.2);
+	margin: 0 auto;
+}
+#service img{
+	height: 130px;
+}
+#service{
+	background: #02a68e;
+}
